@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
+    "ip": "",
     "port": 27586,
-    "version": "",
+    "version": "Scheduule1smp.aternos.me",
     "try-creative": false
   },
   "position": {
